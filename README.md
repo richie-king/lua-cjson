@@ -1,3 +1,8 @@
+Forked from https://github.com/mpx/lua-cjson
+
+changed:
+1. convert json null to nil, means no related key in metatable
+
 Name
 ====
 
